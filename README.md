@@ -1,4 +1,4 @@
-# Explore-a-Dataset-on-Energy-Usage-and-Draw-The-First-Conclusions
+# Excel-Explore-a-Dataset-on-Energy-Usage-and-Draw-The-First-Conclusions
 
 ### Project Overview (Case Study)
 AusEnergy has supplied us with some data regarding energy demand in Australia over a few years. They want us to show that we can interpret their existing data. To me, that means creating lots of clear tables and charts! 
